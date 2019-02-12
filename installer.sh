@@ -55,7 +55,7 @@ read -p "╰─#" pil;
 
 # Shell-Scan
 
-1)git clone  https://github.com/MarsHallACX/Shell-Scan
+1)echo -e "${y} git clone https://github.com/MarsHallACX/Shell-Scan"
 echo -e "${y} README.md"
 echo -e "${y} cd Shell-Scan"
 echo -e "${y} python finder.py"
@@ -68,7 +68,7 @@ echo
 
 # DDOS-Hammer
 
-2)git clone https://github.com/MarsHallACX/DDOS
+2)echo -e "${y} git clone https://github.com/MarsHallACX/DDOS"
 echo -e "${y} README.md"
 echo -e "${y} cd DDOS"
 echo -e "${y} python2 ddos-hammer.py"
