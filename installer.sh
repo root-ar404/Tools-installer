@@ -65,7 +65,7 @@ echo -e $r "9.  Install MultiBruteForce(MBF)${endc}";
 echo -e "===============================================" | lolcat
 echo -e $r "10. Install Shell-Backdoor(ICWR)${endc}";
 echo -e "===============================================" | lolcat
-echo -e $r "10. Install Tools Hack Akun Fb Target${endc}";
+echo -e $r "11. Install Tools Hack Akun Fb Target${endc}";
 echo -e "===============================================" | lolcat
 echo -e $r "0. Exit${endc}";
 echo ""
@@ -189,7 +189,7 @@ echo -e "${y} php backdoor.php"
 
 #Install Tools Hack Akun Fb Target
 
-10) git clone https://gitlab.com/omest/interfarma.git
+11) git clone https://gitlab.com/omest/interfarma.git
 echo -e "${y} README.md"
 echo -e "${y} cd interfarma"
 echo -e "${y} ls"
