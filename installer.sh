@@ -21,7 +21,7 @@ figlet AnarchoXploit | lolcat
 
 echo -e  "_____________________________________________________________"
 echo -e  "Tools    : AnarchoXploit $white         " |lolcat
-echo -e  "Creadby  : MarsHall   " |lolcat
+echo -e  "Author   : MarsHall   " |lolcat
 echo -e  "Contact  : marshallacx@gmail.com $white " |lolcat
 echo -e  "_____________________________________________________________"
 
@@ -53,9 +53,9 @@ echo ""
 echo -e "╭─0day" |lolcat
 read -p "╰─#" pil;
 
-#Shell-Scan
+# Shell-Scan
 
-1) git clone  https://github.com/MarsHallACX/Shell-Scan
+1)git clone  https://github.com/MarsHallACX/Shell-Scan
 echo -e "${y} README.md"
 echo -e "${y} cd Shell-Scan"
 echo -e "${y} python finder.py"
@@ -66,9 +66,9 @@ echo
 
 ;;
 
-#DDOS-Hammer
+# DDOS-Hammer
 
-2) git clone https://github.com/MarsHallACX/DDOS
+2)git clone https://github.com/MarsHallACX/DDOS
 echo -e "${y} README.md"
 echo -e "${y} cd DDOS"
 echo -e "${y} python2 ddos-hammer.py"
@@ -79,7 +79,7 @@ php /data/data/com.termux/files/home/DDOS/ddos-hammer.py
 ;;
 
 
-6) echo "created by : MarsHall@AnarchoXploit" | lolcat
+6)echo "created by : MarsHall@AnarchoXploit" | lolcat
 exit
 ;;
 
