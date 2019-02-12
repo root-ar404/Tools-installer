@@ -63,7 +63,7 @@ echo -e $b "8.  BAJINGANv6${endc}";
 echo -e "============================" | lolcat
 echo -e $r "9.  MultiBruteForce(MBF)${endc}";
 echo -e "============================" | lolcat
-echo -e $r "9.  Install Shell-Backdoor(ICWR)${endc}";
+echo -e $r "10.  Install Shell-Backdoor(ICWR)${endc}";
 echo -e "============================" | lolcat
 echo -e $r "0. Exit${endc}";
 echo ""
