@@ -58,7 +58,7 @@ echo -e "============================" | lolcat
 echo -e $b "6.  Shell-Scan${endc}";
 echo -e "============================" | lolcat
 echo -e $r "7.  DDOS-Hammer${endc}";
-echo -e "============================" | lolcatlolcat
+echo -e "============================" | lolcat
 echo -e $b "8.  BAJINGANv6${endc}";
 echo -e "============================" | lolcat
 echo -e $r "9.  MultiBruteForce(MBF)${endc}";
