@@ -84,7 +84,7 @@ echo
 
 # admin-finder
 
-2) git clone  https://github.com/the-c0d3r/admin-finder.git
+2) git clone https://github.com/the-c0d3r/admin-finder.git
 echo -e "${y} cara menggunakan admin finder"
 echo -e "${y} cd admin-finder"
 echo -e "${y} python admin-finder.py"
@@ -128,7 +128,7 @@ echo -e "${y} sh install.aex"
 
 #Shell-Scan
 
-6) git clone  https://github.com/MarsHallACX/Shell-Scan
+6) git clone https://github.com/MarsHallACX/Shell-Scan
 echo -e "${y} README.md"
 echo -e "${y} cd Shell-Scan"
 echo -e "${y} python finder.py"
@@ -176,7 +176,7 @@ echo -e "${y} python2 MBF.py"
 
 #Install Shell Backdoor (ICWR)
 
-10) https://github.com/ICWR-TECH/php-backdoor
+10) git clone https://github.com/ICWR-TECH/php-backdoor
 echo -e "${y} README.md"
 echo -e "${y} cd php-backdoor"
 echo -e "${y} php backdoor.php"
