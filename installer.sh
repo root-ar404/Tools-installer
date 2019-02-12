@@ -55,7 +55,7 @@ read -p "╰─#" pil;
 
 #Shell-Scan
 
-1) git clone  https://github.com/MarsHallACX/Shell-Scan.git
+1) git clone  https://github.com/MarsHallACX/Shell-Scan
 echo -e "${y} README.md"
 echo -e "${y} cd Shell-Scan"
 echo -e "${y} python finder.py"
